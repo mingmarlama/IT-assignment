@@ -1,2 +1,2 @@
 # IT-assignment
-all aAll assignments related to IT 
+All assignments related to IT 
